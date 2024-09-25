@@ -1,7 +1,7 @@
 # Entendendo Estruturas Condicionais If/Else e Switch/Case em PHP
 
 ## Link para a aula em vídeo:
-[PHP com Banco de Dados - Aula 003 - Estruturas Condicionais](https://www.youtube.com/watch?v=K1rtnDWeihQ)
+[PHP com Banco de Dados - Aula 003 - Estruturas Condicionais](https://www.youtube.com/watch?v=K1rtnDWeihQ&sub_confirmation=1)
 
 ## Atividades Propostas:
 
