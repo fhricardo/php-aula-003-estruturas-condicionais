@@ -17,6 +17,7 @@
             <option value="fries">Batata Frita</option>
             <option value="chicken">Frango Frito</option>
             <option value="donuts">Donuts</option>
+            <option value="miojo">Miojo</option>
         </select>
         <input type="submit" value="OK">
     </form>
